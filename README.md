@@ -1,5 +1,5 @@
 # Digital-Images-For-Dummies
-Mychal Masterson
+By Mychal Masterson
 
 
 Welcome to the tutorial that will help you understand digital images easily. Although digital images sound like only professionals can understand them, their basic defining characteristics are actually simple for anyone to learn. We'll focus on the major differences of [Bitmap](https://github.com/mychalmasterson/Final-Project/blob/master/Bitmap.md) (aka Raster) and [Vector](https://github.com/mychalmasterson/Final-Project/blob/master/Vector.md) images.
