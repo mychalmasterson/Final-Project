@@ -15,7 +15,7 @@ You'll find that bitmap images are shared more often than vector images. They ar
 * .jpg
 * .png
 * .gif
-* .tif . 
+* .tif
 
 
 
