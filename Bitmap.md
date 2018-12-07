@@ -1,4 +1,4 @@
-[Home Page] ()
+[Home Page] (https://github.com/mychalmasterson/Final-Project/blob/master/README.md)
 
 Bitmap images depend on pixels. A simplified definition of a pixel is a tiny box that emits one color. Similar to how atoms and molecules are tiny pieces that make an object, pixels are tiny boxes that come together to form an image.
 
