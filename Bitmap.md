@@ -1,6 +1,6 @@
 [Home Page](https://github.com/mychalmasterson/Final-Project/blob/master/README.md)
 
-## 2. Bitmap (Raster) Images ##
+## Bitmap (Raster) Images ##
 
 
 Bitmap images are composed of pixels. A pixel is a tiny box that emits one color. Similar to how atoms and molecules are tiny pieces that make up an object, pixels are tiny boxes that come make up an image. But more molecules translates to a bigger object. That isn't the case with pixels. With any image, the physical size of the image is always the same. What changes is the size of the boxes making up that image. The smaller the boxes, the finer the image. So, more pixels translates to a higher image quality. 
@@ -15,4 +15,4 @@ You'll find that bitmap images are shared more often than vector images. The 4 m
 
 
 
-[3. Vector Images](https://github.com/mychalmasterson/Final-Project/blob/master/Vector.md)
+[Next: Vector Images](https://github.com/mychalmasterson/Final-Project/blob/master/Vector.md)
