@@ -1,4 +1,4 @@
-[Home Page](https://github.com/mychalmasterson/Final-Project/blob/master/README.md)
+[2. Bitmap (Raster) Images]()
 
 ## 3. Vector Images ##
 
