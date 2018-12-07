@@ -11,7 +11,13 @@ Graphic designs such as logos or signs are best saved as vector images. These ty
 
 As you can see, the zoom in on the vector image looks exactly how it should, thanks to the formula that the image is stored as. 
 
-The 4 most common vector image file types are: .pdf , .svg , .eps , and .ai . These file sizes are commonly smaller than bitmap image file sizes. With bitmap images, we know that more pixels translates to a higher image quality. But more pixels also translates to a larger file sizes, whereas the formula that composes a vector image is the same, and it usually takes up less space than its bitmap counterpart.
+The 4 most common vector image file types are: 
+* .pdf
+* .svg
+* .eps
+* .ai
+
+These file sizes are commonly smaller than bitmap image file sizes. With bitmap images, we know that more pixels translates to a higher image quality. But more pixels also translates to a larger file sizes, whereas the formula that composes a vector image is the same, and it usually takes up less space than its bitmap counterpart.
 
 So that's it! Now you have a basic understanding of the differences between bitmap and vector images. Now you know when to use which image type in order to avoid any pitfalls that could come with poor image quality.
 
