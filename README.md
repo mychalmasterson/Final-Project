@@ -9,7 +9,7 @@ This tutorial will be particularly helpful for a promoter of any sorts who wants
 Can you guess which image is likely vector and which is likely bitmap?
 
 ![Rose 1](https://openclipart.org/download/57451/rosa.svg "Rose 1")
-![Rose 2](https://www.rosesandsmiles.com/wp-content/uploads/2016/08/Sexy-Red-Roses-1-3.jpg "Rose 2")
+![Rose 2](https://images.unsplash.com/photo-1496857239036-1fb137683000?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb "Rose 2")
 
 By the end of this tutorial, you'll know!
 
