@@ -14,4 +14,5 @@ This kind of image distortion probably looks familiar. It's exactly what happens
 You'll find that bitmap images are shared more often than vector images. The 4 most common file types are: .jpg , .png , .gif , and .tif . These file types are sent between people far more often than the Vector file types.
 
 
+
 [3. Vector Images](https://github.com/mychalmasterson/Final-Project/blob/master/Vector.md)
