@@ -1,4 +1,4 @@
-[2. Bitmap (Raster) Images](https://github.com/mychalmasterson/Final-Project/blob/master/Bitmap.md)
+[Back: Bitmap (Raster) Images](https://github.com/mychalmasterson/Final-Project/blob/master/Bitmap.md)
 
 ## 3. Vector Images ##
 
