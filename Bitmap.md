@@ -1,4 +1,4 @@
-[Home Page](https://github.com/mychalmasterson/Final-Project/blob/master/README.md)
+[Home](https://github.com/mychalmasterson/Final-Project/blob/master/README.md)
 
 ## Bitmap (Raster) Images ##
 
