@@ -3,15 +3,17 @@
 ## 3. Vector Images ##
 
 
-Bitmap images are composed of pixels. A pixel is a tiny box that emits one color. Similar to how atoms and molecules are tiny pieces that make up an object, pixels are tiny boxes that come make up an image. But more molecules translates to a bigger object. That isn't the case with pixels. With any image, the physical size of the image is always the same. What changes is the size of the boxes making up that image. The smaller the boxes, the finer the image. So, more pixels translates to a higher image quality. 
+Vector images are like a mathematical formula. Instead of storing the image as tons of pixels, vector images break an image down to very simple lines, points, and shapes. So, at any size, the image maintains its quality because the forumla doesn't change.
 
-Highly detailed images such as photos or realistic paintings are best saved as bitmap images, as long as there are plenty of pixels wherever the image will go. This isn't typically a problem to worry about today, all of our modern devices are is loaded with plenty of pixels. But if an bitmap image is zoomed in far enough, those pixels become bigger and bigger, and the image quality decreases rapidly.
+Graphic designs such as logos or signs are best saved as vector images. These types of images may want to be small enough to be included in a letter head, and at the same time big enough to be recognizable on the side of a company vehicle, or above the doors to a building. For an image that will need to fit any size according to scale, vector images are a far better choice than bitmap images.  
 
 ![Vector](http://txpblog.wpengine.com/wp-content/uploads/2011/06/Vector-image.gif "Vector")
 
-This kind of image distortion probably looks familiar. It's exactly what happens when you zoom too far in on a bitmap image. Those boxes that you see are pixels.
+As you can see, the zoom in on the vector image looks exactly how it should, thanks to the formula that the image is stored as. 
 
-You'll find that bitmap images are shared more often than vector images. The 4 most common file types are: .jpg , .png , .gif , and .tif . These file types are sent between people far more often than the Vector file types.
+The 4 most common vector image file types are: .pdf , .svg , .eps , and .ai . These file sizes are commonly smaller than bitmap image file sizes. With bitmap images, we know that more pixels translates to a higher image quality. But more pixels also translates to a larger file sizes, whereas the formula that composes a vector image is the same, and it usually takes up less space than its bitmap counterpart.
+
+So that's it! Now you have a basic understanding of the differences between bitmap and vector images. Now you know when to use which image type in order to avoid any pitfalls that could come with poor image quality.
 
 
 [Home](https://github.com/mychalmasterson/Final-Project/blob/master/README.md)
